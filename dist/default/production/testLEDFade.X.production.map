@@ -1,0 +1,1526 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+                              D:/Program/MPLAB/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o (exit)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_tablejump2.o)
+                              build/default/production/timers.o (__tablejump2__)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+                              build/default/production/tasks.o (__do_clear_bss)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_xload_2.o)
+                              build/default/production/event_groups.o (__xload_2)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+                              build/default/production/main.o (__movmemx_qi)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(atoi_M.o)
+                              build/default/production/main.o (atoi)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(atol_M.o)
+                              c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(atoi_M.o) (atol)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(malloc.o)
+                              build/default/production/heap_3.o (malloc)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtol.o)
+                              c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(atol_M.o) (strtol)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(isspace.o)
+                              c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtol.o) (isspace)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtok.o)
+                              build/default/production/main.o (strtok)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(memcpy_M.o)
+                              build/default/production/main.o (memcpy)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcmp_M.o)
+                              build/default/production/main.o (strcmp)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcpy_M.o)
+                              build/default/production/main.o (strcpy)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtok_r_M.o)
+                              c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtok.o) (strtok_r)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(memset.o)
+                              build/default/production/tasks.o (memset)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(errno.o)
+                              c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtol.o) (errno)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(cty_isfalse.o)
+                              c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(isspace.o) (__ctype_isfalse)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_mulsi3.o)
+                              c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtol.o) (__mulsi3)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmodsi4.o)
+                              c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtol.o) (__udivmodsi4)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_muluhisi3.o)
+                              c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_mulsi3.o) (__muluhisi3)
+c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_umulhisi3.o)
+                              c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_muluhisi3.o) (__umulhisi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x2               c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(errno.o)
+__brkval            0x2               c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(malloc.o)
+__flp               0x2               c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(malloc.o)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 D:/Program/MPLAB/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+ .bss           0x0000000000000000        0x0 D:/Program/MPLAB/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+ .text          0x0000000000000000        0x0 build/default/production/main.o
+ .data          0x0000000000000000        0x0 build/default/production/main.o
+ .bss           0x0000000000000000        0x0 build/default/production/main.o
+ .text.repaet   0x0000000000000000       0x32 build/default/production/main.o
+ .text          0x0000000000000000        0x0 build/default/production/croutine.o
+ .data          0x0000000000000000        0x0 build/default/production/croutine.o
+ .bss           0x0000000000000000        0x0 build/default/production/croutine.o
+ .debug_info    0x0000000000000000      0x210 build/default/production/croutine.o
+ .debug_abbrev  0x0000000000000000       0x1b build/default/production/croutine.o
+ .debug_aranges
+                0x0000000000000000       0x18 build/default/production/croutine.o
+ .debug_line    0x0000000000000000       0x1a build/default/production/croutine.o
+ .debug_str     0x0000000000000000        0x0 build/default/production/croutine.o
+ .comment       0x0000000000000000       0x30 build/default/production/croutine.o
+ .text          0x0000000000000000        0x0 build/default/production/event_groups.o
+ .data          0x0000000000000000        0x0 build/default/production/event_groups.o
+ .bss           0x0000000000000000        0x0 build/default/production/event_groups.o
+ .text.xEventGroupCreate
+                0x0000000000000000       0x26 build/default/production/event_groups.o
+ .text.xEventGroupWaitBits
+                0x0000000000000000      0x110 build/default/production/event_groups.o
+ .text.xEventGroupClearBits
+                0x0000000000000000       0x1e build/default/production/event_groups.o
+ .text.xEventGroupGetBitsFromISR
+                0x0000000000000000        0xe build/default/production/event_groups.o
+ .text.xEventGroupSetBits
+                0x0000000000000000       0xec build/default/production/event_groups.o
+ .text.xEventGroupSync
+                0x0000000000000000       0xd2 build/default/production/event_groups.o
+ .text.vEventGroupDelete
+                0x0000000000000000       0x74 build/default/production/event_groups.o
+ .text.vEventGroupSetBitsCallback
+                0x0000000000000000        0x8 build/default/production/event_groups.o
+ .text.vEventGroupClearBitsCallback
+                0x0000000000000000        0x8 build/default/production/event_groups.o
+ .debug_info    0x0000000000000000      0xc7b build/default/production/event_groups.o
+ .debug_abbrev  0x0000000000000000      0x212 build/default/production/event_groups.o
+ .debug_loc     0x0000000000000000      0x91c build/default/production/event_groups.o
+ .debug_aranges
+                0x0000000000000000       0x60 build/default/production/event_groups.o
+ .debug_ranges  0x0000000000000000       0x68 build/default/production/event_groups.o
+ .debug_line    0x0000000000000000      0x388 build/default/production/event_groups.o
+ .debug_str     0x0000000000000000      0x192 build/default/production/event_groups.o
+ .comment       0x0000000000000000       0x30 build/default/production/event_groups.o
+ .debug_frame   0x0000000000000000      0x178 build/default/production/event_groups.o
+ .text          0x0000000000000000        0x0 build/default/production/heap_3.o
+ .data          0x0000000000000000        0x0 build/default/production/heap_3.o
+ .bss           0x0000000000000000        0x0 build/default/production/heap_3.o
+ .text          0x0000000000000000        0x0 build/default/production/hooks.o
+ .data          0x0000000000000000        0x0 build/default/production/hooks.o
+ .bss           0x0000000000000000        0x0 build/default/production/hooks.o
+ .text          0x0000000000000000        0x0 build/default/production/list.o
+ .data          0x0000000000000000        0x0 build/default/production/list.o
+ .bss           0x0000000000000000        0x0 build/default/production/list.o
+ .text          0x0000000000000000        0x0 build/default/production/port.o
+ .data          0x0000000000000000        0x0 build/default/production/port.o
+ .bss           0x0000000000000000        0x0 build/default/production/port.o
+ .text.vPortEndScheduler
+                0x0000000000000000       0x18 build/default/production/port.o
+ .text.vPortYieldFromISR
+                0x0000000000000000       0xb2 build/default/production/port.o
+ .text          0x0000000000000000        0x0 build/default/production/queue.o
+ .data          0x0000000000000000        0x0 build/default/production/queue.o
+ .bss           0x0000000000000000        0x0 build/default/production/queue.o
+ .text.xQueueCreateCountingSemaphore
+                0x0000000000000000       0x18 build/default/production/queue.o
+ .text.xQueueCreateMutex
+                0x0000000000000000       0x3a build/default/production/queue.o
+ .text.xQueueGiveMutexRecursive
+                0x0000000000000000       0x48 build/default/production/queue.o
+ .text.xQueueGiveFromISR
+                0x0000000000000000       0x54 build/default/production/queue.o
+ .text.xQueueSemaphoreTake
+                0x0000000000000000      0x1c4 build/default/production/queue.o
+ .text.xQueueTakeMutexRecursive
+                0x0000000000000000       0x48 build/default/production/queue.o
+ .text.xQueuePeek
+                0x0000000000000000      0x14c build/default/production/queue.o
+ .text.xQueueReceiveFromISR
+                0x0000000000000000       0x72 build/default/production/queue.o
+ .text.xQueuePeekFromISR
+                0x0000000000000000       0x2e build/default/production/queue.o
+ .text.uxQueueMessagesWaiting
+                0x0000000000000000       0x10 build/default/production/queue.o
+ .text.uxQueueSpacesAvailable
+                0x0000000000000000       0x14 build/default/production/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x0000000000000000        0x6 build/default/production/queue.o
+ .text.vQueueDelete
+                0x0000000000000000        0x6 build/default/production/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x0000000000000000        0xc build/default/production/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x0000000000000000        0xe build/default/production/queue.o
+ .text          0x0000000000000000        0x0 build/default/production/stream_buffer.o
+ .data          0x0000000000000000        0x0 build/default/production/stream_buffer.o
+ .bss           0x0000000000000000        0x0 build/default/production/stream_buffer.o
+ .text.prvBytesInBuffer
+                0x0000000000000000       0x54 build/default/production/stream_buffer.o
+ .text.prvWriteBytesToBuffer
+                0x0000000000000000       0xa2 build/default/production/stream_buffer.o
+ .text.prvWriteMessageToBuffer
+                0x0000000000000000       0x94 build/default/production/stream_buffer.o
+ .text.prvReadBytesFromBuffer
+                0x0000000000000000       0xa0 build/default/production/stream_buffer.o
+ .text.xStreamBufferGenericCreate
+                0x0000000000000000       0x5a build/default/production/stream_buffer.o
+ .text.vStreamBufferDelete
+                0x0000000000000000       0x1a build/default/production/stream_buffer.o
+ .text.xStreamBufferReset
+                0x0000000000000000       0x74 build/default/production/stream_buffer.o
+ .text.xStreamBufferSetTriggerLevel
+                0x0000000000000000       0x22 build/default/production/stream_buffer.o
+ .text.xStreamBufferSpacesAvailable
+                0x0000000000000000       0x4c build/default/production/stream_buffer.o
+ .text.xStreamBufferBytesAvailable
+                0x0000000000000000        0xa build/default/production/stream_buffer.o
+ .text.xStreamBufferSend
+                0x0000000000000000      0x152 build/default/production/stream_buffer.o
+ .text.xStreamBufferSendFromISR
+                0x0000000000000000       0xa2 build/default/production/stream_buffer.o
+ .text.xStreamBufferReceive
+                0x0000000000000000      0x160 build/default/production/stream_buffer.o
+ .text.xStreamBufferNextMessageLengthBytes
+                0x0000000000000000       0x6a build/default/production/stream_buffer.o
+ .text.xStreamBufferReceiveFromISR
+                0x0000000000000000       0xea build/default/production/stream_buffer.o
+ .text.xStreamBufferIsEmpty
+                0x0000000000000000       0x24 build/default/production/stream_buffer.o
+ .text.xStreamBufferIsFull
+                0x0000000000000000       0x3a build/default/production/stream_buffer.o
+ .text.xStreamBufferSendCompletedFromISR
+                0x0000000000000000       0x46 build/default/production/stream_buffer.o
+ .text.xStreamBufferReceiveCompletedFromISR
+                0x0000000000000000       0x46 build/default/production/stream_buffer.o
+ .debug_info    0x0000000000000000     0x1876 build/default/production/stream_buffer.o
+ .debug_abbrev  0x0000000000000000      0x2af build/default/production/stream_buffer.o
+ .debug_loc     0x0000000000000000     0x1614 build/default/production/stream_buffer.o
+ .debug_aranges
+                0x0000000000000000       0xb0 build/default/production/stream_buffer.o
+ .debug_ranges  0x0000000000000000       0xa0 build/default/production/stream_buffer.o
+ .debug_line    0x0000000000000000      0x713 build/default/production/stream_buffer.o
+ .debug_str     0x0000000000000000      0x20f build/default/production/stream_buffer.o
+ .comment       0x0000000000000000       0x30 build/default/production/stream_buffer.o
+ .debug_frame   0x0000000000000000      0x3d0 build/default/production/stream_buffer.o
+ .text          0x0000000000000000        0x0 build/default/production/tasks.o
+ .data          0x0000000000000000        0x0 build/default/production/tasks.o
+ .bss           0x0000000000000000        0x0 build/default/production/tasks.o
+ .text.vTaskDelete
+                0x0000000000000000       0xaa build/default/production/tasks.o
+ .text.uxTaskPriorityGet
+                0x0000000000000000       0x2a build/default/production/tasks.o
+ .text.uxTaskPriorityGetFromISR
+                0x0000000000000000       0x20 build/default/production/tasks.o
+ .text.vTaskPrioritySet
+                0x0000000000000000       0xf8 build/default/production/tasks.o
+ .text.vTaskResume
+                0x0000000000000000       0xc0 build/default/production/tasks.o
+ .text.xTaskResumeFromISR
+                0x0000000000000000       0xce build/default/production/tasks.o
+ .text.vTaskEndScheduler
+                0x0000000000000000        0xe build/default/production/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x0000000000000000        0xa build/default/production/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x0000000000000000        0x6 build/default/production/tasks.o
+ .text.pcTaskGetName
+                0x0000000000000000       0x10 build/default/production/tasks.o
+ .text.vTaskDelayUntil
+                0x0000000000000000       0x7c build/default/production/tasks.o
+ .text.vTaskDelay
+                0x0000000000000000       0x28 build/default/production/tasks.o
+ .text.xTaskCatchUpTicks
+                0x0000000000000000       0x28 build/default/production/tasks.o
+ .text.vTaskSuspend
+                0x0000000000000000       0xa4 build/default/production/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x0000000000000000       0x32 build/default/production/tasks.o
+ .text.vTaskRemoveFromUnorderedEventList
+                0x0000000000000000       0x70 build/default/production/tasks.o
+ .text.vTaskSetTimeOutState
+                0x0000000000000000       0x20 build/default/production/tasks.o
+ .text.uxTaskGetStackHighWaterMark
+                0x0000000000000000       0x4e build/default/production/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x0000000000000000        0xa build/default/production/tasks.o
+ .text.xTaskPriorityInherit
+                0x0000000000000000       0xe4 build/default/production/tasks.o
+ .text.vTaskPriorityDisinheritAfterTimeout
+                0x0000000000000000       0xa0 build/default/production/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x0000000000000000       0x2e build/default/production/tasks.o
+ .text.pvTaskIncrementMutexHeldCount
+                0x0000000000000000       0x24 build/default/production/tasks.o
+ .text.ulTaskNotifyTake
+                0x0000000000000000       0xae build/default/production/tasks.o
+ .text.xTaskNotifyWait
+                0x0000000000000000      0x108 build/default/production/tasks.o
+ .text.xTaskGenericNotify
+                0x0000000000000000       0xfc build/default/production/tasks.o
+ .text.xTaskGenericNotifyFromISR
+                0x0000000000000000      0x120 build/default/production/tasks.o
+ .text.vTaskNotifyGiveFromISR
+                0x0000000000000000       0xb4 build/default/production/tasks.o
+ .text.xTaskNotifyStateClear
+                0x0000000000000000       0x28 build/default/production/tasks.o
+ .text.ulTaskNotifyValueClear
+                0x0000000000000000       0x66 build/default/production/tasks.o
+ .text          0x0000000000000000        0x0 build/default/production/timers.o
+ .data          0x0000000000000000        0x0 build/default/production/timers.o
+ .bss           0x0000000000000000        0x0 build/default/production/timers.o
+ .text.xTimerCreate
+                0x0000000000000000       0x74 build/default/production/timers.o
+ .text.xTimerGetTimerDaemonTaskHandle
+                0x0000000000000000        0xa build/default/production/timers.o
+ .text.xTimerGetPeriod
+                0x0000000000000000        0x8 build/default/production/timers.o
+ .text.vTimerSetReloadMode
+                0x0000000000000000       0x22 build/default/production/timers.o
+ .text.uxTimerGetReloadMode
+                0x0000000000000000       0x16 build/default/production/timers.o
+ .text.xTimerGetExpiryTime
+                0x0000000000000000        0x8 build/default/production/timers.o
+ .text.pcTimerGetName
+                0x0000000000000000        0xa build/default/production/timers.o
+ .text.xTimerIsTimerActive
+                0x0000000000000000       0x12 build/default/production/timers.o
+ .text.pvTimerGetTimerID
+                0x0000000000000000       0x12 build/default/production/timers.o
+ .text.vTimerSetTimerID
+                0x0000000000000000       0x12 build/default/production/timers.o
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_tablejump2.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_tablejump2.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_tablejump2.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_xload_2.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_xload_2.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_xload_2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_xload_2.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_xload_2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_xload_2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_xload_2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_xload_2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_xload_2.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(atoi_M.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(atoi_M.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(atoi_M.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(atol_M.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(atol_M.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(atol_M.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(malloc.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(malloc.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtol.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtol.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtol.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(isspace.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(isspace.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(isspace.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtok.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtok.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(memcpy_M.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(memcpy_M.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(memcpy_M.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcmp_M.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcmp_M.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcmp_M.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcpy_M.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcpy_M.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcpy_M.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtok_r_M.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtok_r_M.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(memset.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(memset.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(memset.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(errno.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(errno.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(errno.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(cty_isfalse.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(cty_isfalse.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(cty_isfalse.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_mulsi3.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_mulsi3.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_mulsi3.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_muluhisi3.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_muluhisi3.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_muluhisi3.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_umulhisi3.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_umulhisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000008000 xr
+data             0x0000000000800100 0x0000000000000800 rw !x
+eeprom           0x0000000000810000 0x0000000000000400 rw !x
+fuse             0x0000000000820000 0x0000000000000003 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD D:/Program/MPLAB/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+LOAD build/default/production/main.o
+LOAD build/default/production/croutine.o
+LOAD build/default/production/event_groups.o
+LOAD build/default/production/heap_3.o
+LOAD build/default/production/hooks.o
+LOAD build/default/production/list.o
+LOAD build/default/production/port.o
+LOAD build/default/production/queue.o
+LOAD build/default/production/stream_buffer.o
+LOAD build/default/production/tasks.o
+LOAD build/default/production/timers.o
+START GROUP
+LOAD c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a
+LOAD c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a
+LOAD c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a
+LOAD D:/Program/MPLAB/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const\libatmega328p.a
+END GROUP
+                0x0000000000000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x0000000000008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000       0xe2
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 D:/Program/MPLAB/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.prvTimerTask
+                0x0000000000000068       0x14 build/default/production/timers.o
+ *(.dinit)
+ .dinit         0x000000000000007c       0x11 data_init
+                0x000000000000008e                . = ALIGN (0x2)
+ *fill*         0x000000000000008d        0x1 
+                0x000000000000008e                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000000000008e        0x0 linker stubs
+ *(.trampolines*)
+                0x000000000000008e                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+                0x000000000000008e                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000000000008e                __ctors_start = .
+ *(.ctors)
+                0x000000000000008e                __ctors_end = .
+                0x000000000000008e                __dtors_start = .
+ *(.dtors)
+                0x000000000000008e                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000000000008e        0x0 D:/Program/MPLAB/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+                0x000000000000008e                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000000000008e        0xc D:/Program/MPLAB/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000000000009a       0x3c c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_copy_data.o)
+                0x000000000000009a                __do_copy_data
+                0x00000000000000c8                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000000d6        0x8 D:/Program/MPLAB/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+ *(.init9)
+                0x00000000000000de                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000000de        0x0 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+                0x00000000000000de                _exit
+                0x00000000000000de                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000000de        0x4 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000000000000e2                _etext = .
+
+.data           0x0000000000800100        0x0 load address 0x00000000000000e2
+                [!provide]                        PROVIDE (__data_start, .)
+ *(.gnu.linkonce.d*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800100                . = ALIGN (0x2)
+                0x0000000000800100                _edata = .
+                [!provide]                        PROVIDE (__data_end, .)
+
+.bss            0x0000000000800100        0x6
+                [!provide]                        PROVIDE (__bss_start, .)
+ *(COMMON)
+ COMMON         0x0000000000800100        0x4 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(malloc.o)
+                0x0000000000800100                __brkval
+                0x0000000000800102                __flp
+ COMMON         0x0000000000800104        0x2 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(errno.o)
+                0x0000000000800104                errno
+                [!provide]                        PROVIDE (__bss_end, .)
+                0x00000000000000e2                __data_load_start = LOADADDR (.data)
+                0x00000000000000e2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800106        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000800106                _end = .
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5b
+ *(.comment)
+ .comment       0x0000000000000000       0x2f build/default/production/main.o
+                                         0x30 (size before relaxing)
+ .comment       0x000000000000002f       0x30 build/default/production/heap_3.o
+ .comment       0x000000000000002f       0x30 build/default/production/hooks.o
+ .comment       0x000000000000002f       0x30 build/default/production/list.o
+ .comment       0x000000000000002f       0x30 build/default/production/port.o
+ .comment       0x000000000000002f       0x30 build/default/production/queue.o
+ .comment       0x000000000000002f       0x30 build/default/production/tasks.o
+ .comment       0x000000000000002f       0x30 build/default/production/timers.o
+ .comment       0x000000000000002f       0x2c c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(atoi_M.o)
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(atol_M.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(malloc.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtol.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtok.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(memcpy_M.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcmp_M.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcpy_M.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtok_r_M.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(errno.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x460
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x68 build/default/production/main.o
+ .debug_aranges
+                0x0000000000000068       0x28 build/default/production/heap_3.o
+ .debug_aranges
+                0x0000000000000090       0x30 build/default/production/hooks.o
+ .debug_aranges
+                0x00000000000000c0       0x40 build/default/production/list.o
+ .debug_aranges
+                0x0000000000000100       0x50 build/default/production/port.o
+ .debug_aranges
+                0x0000000000000150       0xe0 build/default/production/queue.o
+ .debug_aranges
+                0x0000000000000230      0x198 build/default/production/tasks.o
+ .debug_aranges
+                0x00000000000003c8       0x98 build/default/production/timers.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x7e39
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x5f4 D:/Program/MPLAB/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+ .debug_info    0x00000000000005f4      0x937 build/default/production/main.o
+ .debug_info    0x0000000000000f2b      0x36c build/default/production/heap_3.o
+ .debug_info    0x0000000000001297      0x423 build/default/production/hooks.o
+ .debug_info    0x00000000000016ba      0x532 build/default/production/list.o
+ .debug_info    0x0000000000001bec      0x520 build/default/production/port.o
+ .debug_info    0x000000000000210c     0x1d3c build/default/production/queue.o
+ .debug_info    0x0000000000003e48     0x2ac9 build/default/production/tasks.o
+ .debug_info    0x0000000000006911     0x1528 build/default/production/timers.o
+
+.debug_abbrev   0x0000000000000000     0x152d
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x5a2 D:/Program/MPLAB/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+ .debug_abbrev  0x00000000000005a2      0x1e4 build/default/production/main.o
+ .debug_abbrev  0x0000000000000786       0xff build/default/production/heap_3.o
+ .debug_abbrev  0x0000000000000885       0xde build/default/production/hooks.o
+ .debug_abbrev  0x0000000000000963      0x116 build/default/production/list.o
+ .debug_abbrev  0x0000000000000a79      0x14d build/default/production/port.o
+ .debug_abbrev  0x0000000000000bc6      0x2e2 build/default/production/queue.o
+ .debug_abbrev  0x0000000000000ea8      0x356 build/default/production/tasks.o
+ .debug_abbrev  0x00000000000011fe      0x32f build/default/production/timers.o
+
+.debug_line     0x0000000000000000     0x2e0e
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x137 D:/Program/MPLAB/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+ .debug_line    0x0000000000000137      0x2ee build/default/production/main.o
+ .debug_line    0x0000000000000425      0x123 build/default/production/heap_3.o
+ .debug_line    0x0000000000000548      0x16b build/default/production/hooks.o
+ .debug_line    0x00000000000006b3      0x1a9 build/default/production/list.o
+ .debug_line    0x000000000000085c      0x222 build/default/production/port.o
+ .debug_line    0x0000000000000a7e      0xb84 build/default/production/queue.o
+ .debug_line    0x0000000000001602     0x12da build/default/production/tasks.o
+ .debug_line    0x00000000000028dc      0x532 build/default/production/timers.o
+
+.debug_frame    0x0000000000000000      0xe54
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x10c build/default/production/main.o
+ .debug_frame   0x000000000000010c       0x4c build/default/production/heap_3.o
+ .debug_frame   0x0000000000000158       0x44 build/default/production/hooks.o
+ .debug_frame   0x000000000000019c       0x88 build/default/production/list.o
+ .debug_frame   0x0000000000000224       0x84 build/default/production/port.o
+ .debug_frame   0x00000000000002a8      0x3ec build/default/production/queue.o
+ .debug_frame   0x0000000000000694      0x5ec build/default/production/tasks.o
+ .debug_frame   0x0000000000000c80      0x1d4 build/default/production/timers.o
+
+.debug_str      0x0000000000000000      0x9cc
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x208 D:/Program/MPLAB/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+ .debug_str     0x0000000000000208       0x20 build/default/production/main.o
+ .debug_str     0x0000000000000228       0x3c build/default/production/heap_3.o
+ .debug_str     0x0000000000000264        0x0 build/default/production/hooks.o
+ .debug_str     0x0000000000000264       0x2b build/default/production/list.o
+ .debug_str     0x000000000000028f       0x26 build/default/production/port.o
+ .debug_str     0x00000000000002b5      0x29f build/default/production/queue.o
+ .debug_str     0x0000000000000554      0x287 build/default/production/tasks.o
+ .debug_str     0x00000000000007db      0x1f1 build/default/production/timers.o
+
+.debug_loc      0x0000000000000000     0x4459
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x2f4 build/default/production/main.o
+ .debug_loc     0x00000000000002f4       0xa4 build/default/production/heap_3.o
+ .debug_loc     0x0000000000000398       0xb4 build/default/production/hooks.o
+ .debug_loc     0x000000000000044c       0xb8 build/default/production/list.o
+ .debug_loc     0x0000000000000504       0xcf build/default/production/port.o
+ .debug_loc     0x00000000000005d3     0x1770 build/default/production/queue.o
+ .debug_loc     0x0000000000001d43     0x1d49 build/default/production/tasks.o
+ .debug_loc     0x0000000000003a8c      0x9cd build/default/production/timers.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x560
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x58 build/default/production/main.o
+ .debug_ranges  0x0000000000000058       0x18 build/default/production/heap_3.o
+ .debug_ranges  0x0000000000000070       0x20 build/default/production/hooks.o
+ .debug_ranges  0x0000000000000090       0x30 build/default/production/list.o
+ .debug_ranges  0x00000000000000c0       0x40 build/default/production/port.o
+ .debug_ranges  0x0000000000000100      0x178 build/default/production/queue.o
+ .debug_ranges  0x0000000000000278      0x200 build/default/production/tasks.o
+ .debug_ranges  0x0000000000000478       0xe8 build/default/production/timers.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/production/testLEDFade.X.production.elf elf32-avr)
+LOAD linker stubs
+LOAD data_init
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40 D:/Program/MPLAB/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+
+.bss.uxSchedulerSuspended
+                0x0000000000800189        0x1
+ .bss.uxSchedulerSuspended
+                0x0000000000800189        0x1 build/default/production/tasks.o
+
+.bss.xIdleTaskHandle
+                0x000000000080016f        0x2
+ .bss.xIdleTaskHandle
+                0x000000000080016f        0x2 build/default/production/tasks.o
+
+.bss.xNextTaskUnblockTime
+                0x0000000000800171        0x2
+ .bss.xNextTaskUnblockTime
+                0x0000000000800171        0x2 build/default/production/tasks.o
+
+.bss.uxTaskNumber
+                0x000000000080018a        0x1
+ .bss.uxTaskNumber
+                0x000000000080018a        0x1 build/default/production/tasks.o
+
+.bss.xNumOfOverflows
+                0x000000000080018b        0x1
+ .bss.xNumOfOverflows
+                0x000000000080018b        0x1 build/default/production/tasks.o
+
+.bss.xYieldPending
+                0x000000000080018c        0x1
+ .bss.xYieldPending
+                0x000000000080018c        0x1 build/default/production/tasks.o
+
+.bss.xPendedTicks
+                0x0000000000800173        0x2
+ .bss.xPendedTicks
+                0x0000000000800173        0x2 build/default/production/tasks.o
+
+.bss.xSchedulerRunning
+                0x000000000080018d        0x1
+ .bss.xSchedulerRunning
+                0x000000000080018d        0x1 build/default/production/tasks.o
+
+.bss.uxTopReadyPriority
+                0x000000000080018e        0x1
+ .bss.uxTopReadyPriority
+                0x000000000080018e        0x1 build/default/production/tasks.o
+
+.bss.xTickCount
+                0x0000000000800175        0x2
+ .bss.xTickCount
+                0x0000000000800175        0x2 build/default/production/tasks.o
+
+.bss.uxCurrentNumberOfTasks
+                0x000000000080018f        0x1
+ .bss.uxCurrentNumberOfTasks
+                0x000000000080018f        0x1 build/default/production/tasks.o
+
+.bss.xSuspendedTaskList
+                0x000000000080012a        0x9
+ .bss.xSuspendedTaskList
+                0x000000000080012a        0x9 build/default/production/tasks.o
+
+.bss.uxDeletedTasksWaitingCleanUp
+                0x0000000000800190        0x1
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x0000000000800190        0x1 build/default/production/tasks.o
+
+.bss.xTasksWaitingTermination
+                0x0000000000800133        0x9
+ .bss.xTasksWaitingTermination
+                0x0000000000800133        0x9 build/default/production/tasks.o
+
+.bss.xPendingReadyList
+                0x000000000080013c        0x9
+ .bss.xPendingReadyList
+                0x000000000080013c        0x9 build/default/production/tasks.o
+
+.bss.pxOverflowDelayedTaskList
+                0x0000000000800177        0x2
+ .bss.pxOverflowDelayedTaskList
+                0x0000000000800177        0x2 build/default/production/tasks.o
+
+.bss.pxDelayedTaskList
+                0x0000000000800179        0x2
+ .bss.pxDelayedTaskList
+                0x0000000000800179        0x2 build/default/production/tasks.o
+
+.bss.xDelayedTaskList2
+                0x0000000000800145        0x9
+ .bss.xDelayedTaskList2
+                0x0000000000800145        0x9 build/default/production/tasks.o
+
+.bss.xDelayedTaskList1
+                0x000000000080014e        0x9
+ .bss.xDelayedTaskList1
+                0x000000000080014e        0x9 build/default/production/tasks.o
+
+.bss.pxReadyTasksLists
+                0x0000000000800106       0x24
+ .bss.pxReadyTasksLists
+                0x0000000000800106       0x24 build/default/production/tasks.o
+
+.bss.pxCurrentTCB
+                0x000000000080017b        0x2
+ .bss.pxCurrentTCB
+                0x000000000080017b        0x2 build/default/production/tasks.o
+                0x000000000080017b                pxCurrentTCB
+
+.bss.xLastTime.2420
+                0x000000000080017d        0x2
+ .bss.xLastTime.2420
+                0x000000000080017d        0x2 build/default/production/timers.o
+
+.bss.xTimerTaskHandle
+                0x000000000080017f        0x2
+ .bss.xTimerTaskHandle
+                0x000000000080017f        0x2 build/default/production/timers.o
+
+.bss.xTimerQueue
+                0x0000000000800181        0x2
+ .bss.xTimerQueue
+                0x0000000000800181        0x2 build/default/production/timers.o
+
+.bss.pxOverflowTimerList
+                0x0000000000800183        0x2
+ .bss.pxOverflowTimerList
+                0x0000000000800183        0x2 build/default/production/timers.o
+
+.bss.pxCurrentTimerList
+                0x0000000000800185        0x2
+ .bss.pxCurrentTimerList
+                0x0000000000800185        0x2 build/default/production/timers.o
+
+.bss.xActiveTimerList2
+                0x0000000000800157        0x9
+ .bss.xActiveTimerList2
+                0x0000000000800157        0x9 build/default/production/timers.o
+
+.bss.xActiveTimerList1
+                0x0000000000800160        0x9
+ .bss.xActiveTimerList1
+                0x0000000000800160        0x9 build/default/production/timers.o
+
+.bss            0x0000000000800187        0x2
+ .bss           0x0000000000800187        0x2 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtok.o)
+
+.progmemx.data  0x00000000000000e2       0x51
+ .progmemx.data
+                0x00000000000000e2       0x51 build/default/production/main.o
+
+.progmemx.data  0x0000000000000133        0x8
+ .progmemx.data
+                0x0000000000000133        0x8 build/default/production/timers.o
+
+.progmemx.data  0x000000000000013b        0x5
+ .progmemx.data
+                0x000000000000013b        0x5 build/default/production/tasks.o
+
+.text.avrlibc   0x0000000000000140      0x2dc
+ .text.avrlibc  0x0000000000000140      0x2dc c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtol.o)
+                0x0000000000000140                strtol
+
+.text.xTaskCreate
+                0x000000000000041c      0x268
+ .text.xTaskCreate
+                0x000000000000041c      0x268 build/default/production/tasks.o
+                0x000000000000041c                xTaskCreate
+
+.text.avrlibc   0x0000000000000684      0x242
+ .text.avrlibc  0x0000000000000684      0x242 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(malloc.o)
+                0x0000000000000684                malloc
+                0x00000000000007b4                free
+
+.text.prvTimerTask
+                0x00000000000008c6      0x212
+ .text.prvTimerTask
+                0x00000000000008c6      0x212 build/default/production/timers.o
+
+.text.xQueueGenericSend
+                0x0000000000000ad8      0x188
+ .text.xQueueGenericSend
+                0x0000000000000ad8      0x188 build/default/production/queue.o
+                0x0000000000000ad8                xQueueGenericSend
+
+.text.xTaskIncrementTick
+                0x0000000000000c60      0x17e
+ .text.xTaskIncrementTick
+                0x0000000000000c60      0x17e build/default/production/tasks.o
+                0x0000000000000c60                xTaskIncrementTick
+
+.text.xQueueReceive
+                0x0000000000000dde      0x14c
+ .text.xQueueReceive
+                0x0000000000000dde      0x14c build/default/production/queue.o
+                0x0000000000000dde                xQueueReceive
+
+.text.xTaskResumeAll
+                0x0000000000000f2a      0x106
+ .text.xTaskResumeAll
+                0x0000000000000f2a      0x106 build/default/production/tasks.o
+                0x0000000000000f2a                xTaskResumeAll
+
+.text.inputAnalysis
+                0x0000000000001030      0x104
+ .text.inputAnalysis
+                0x0000000000001030      0x104 build/default/production/main.o
+                0x0000000000001030                inputAnalysis
+
+.text.vTaskSwitchContext
+                0x0000000000001134      0x102
+ .text.vTaskSwitchContext
+                0x0000000000001134      0x102 build/default/production/tasks.o
+                0x0000000000001134                vTaskSwitchContext
+
+.text.prvSampleTimeNow
+                0x0000000000001236       0xe0
+ .text.prvSampleTimeNow
+                0x0000000000001236       0xe0 build/default/production/timers.o
+
+.text.prvCopyDataToQueue
+                0x0000000000001316       0xbe
+ .text.prvCopyDataToQueue
+                0x0000000000001316       0xbe build/default/production/queue.o
+
+.text.vPortYieldFromTick
+                0x00000000000013d4       0xba
+ .text.vPortYieldFromTick
+                0x00000000000013d4       0xba build/default/production/port.o
+                0x00000000000013d4                vPortYieldFromTick
+
+.text.vPortYield
+                0x000000000000148e       0xb2
+ .text.vPortYield
+                0x000000000000148e       0xb2 build/default/production/port.o
+                0x000000000000148e                vPortYield
+
+.text.prvAddCurrentTaskToDelayedList
+                0x0000000000001540       0xb0
+ .text.prvAddCurrentTaskToDelayedList
+                0x0000000000001540       0xb0 build/default/production/tasks.o
+
+.text.prvUnlockQueue
+                0x00000000000015f0       0xaa
+ .text.prvUnlockQueue
+                0x00000000000015f0       0xaa build/default/production/queue.o
+
+.text.xTimerGenericCommand
+                0x000000000000169a       0x9c
+ .text.xTimerGenericCommand
+                0x000000000000169a       0x9c build/default/production/timers.o
+                0x000000000000169a                xTimerGenericCommand
+
+.text.xTaskRemoveFromEventList
+                0x0000000000001736       0x98
+ .text.xTaskRemoveFromEventList
+                0x0000000000001736       0x98 build/default/production/tasks.o
+                0x0000000000001736                xTaskRemoveFromEventList
+
+.text           0x00000000000017ce       0x96
+ .text          0x00000000000017ce       0x96 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtok_r_M.o)
+                0x00000000000017ce                strtok_r
+
+.text.xQueueGenericReset
+                0x0000000000001864       0x8e
+ .text.xQueueGenericReset
+                0x0000000000001864       0x8e build/default/production/queue.o
+                0x0000000000001864                xQueueGenericReset
+
+.text.USART_Monotor
+                0x00000000000018f2       0x84
+ .text.USART_Monotor
+                0x00000000000018f2       0x84 build/default/production/main.o
+                0x00000000000018f2                USART_Monotor
+
+.text.xTaskPriorityDisinherit
+                0x0000000000001976       0x80
+ .text.xTaskPriorityDisinherit
+                0x0000000000001976       0x80 build/default/production/tasks.o
+                0x0000000000001976                xTaskPriorityDisinherit
+
+.text.xQueueGenericSendFromISR
+                0x00000000000019f6       0x74
+ .text.xQueueGenericSendFromISR
+                0x00000000000019f6       0x74 build/default/production/queue.o
+                0x00000000000019f6                xQueueGenericSendFromISR
+
+.text.prvIdleTask
+                0x0000000000001a6a       0x74
+ .text.prvIdleTask
+                0x0000000000001a6a       0x74 build/default/production/tasks.o
+
+.text.xPortStartScheduler
+                0x0000000000001ade       0x70
+ .text.xPortStartScheduler
+                0x0000000000001ade       0x70 build/default/production/port.o
+                0x0000000000001ade                xPortStartScheduler
+
+.text.xTaskCheckForTimeOut
+                0x0000000000001b4e       0x6c
+ .text.xTaskCheckForTimeOut
+                0x0000000000001b4e       0x6c build/default/production/tasks.o
+                0x0000000000001b4e                xTaskCheckForTimeOut
+
+.text.vTaskStartScheduler
+                0x0000000000001bba       0x66
+ .text.vTaskStartScheduler
+                0x0000000000001bba       0x66 build/default/production/tasks.o
+                0x0000000000001bba                vTaskStartScheduler
+
+.text.vListInsert
+                0x0000000000001c20       0x62
+ .text.vListInsert
+                0x0000000000001c20       0x62 build/default/production/list.o
+                0x0000000000001c20                vListInsert
+
+.text.prvInsertTimerInActiveList
+                0x0000000000001c82       0x5e
+ .text.prvInsertTimerInActiveList
+                0x0000000000001c82       0x5e build/default/production/timers.o
+
+.text.xTimerCreateTimerTask
+                0x0000000000001ce0       0x54
+ .text.xTimerCreateTimerTask
+                0x0000000000001ce0       0x54 build/default/production/timers.o
+                0x0000000000001ce0                xTimerCreateTimerTask
+
+.text.prvCheckForValidListAndQueue
+                0x0000000000001d34       0x52
+ .text.prvCheckForValidListAndQueue
+                0x0000000000001d34       0x52 build/default/production/timers.o
+
+.text.uxListRemove
+                0x0000000000001d86       0x4e
+ .text.uxListRemove
+                0x0000000000001d86       0x4e build/default/production/list.o
+                0x0000000000001d86                uxListRemove
+
+.text.xQueueGenericCreate
+                0x0000000000001dd4       0x46
+ .text.xQueueGenericCreate
+                0x0000000000001dd4       0x46 build/default/production/queue.o
+                0x0000000000001dd4                xQueueGenericCreate
+
+.text.libgcc.div
+                0x0000000000001e1a       0x44
+ .text.libgcc.div
+                0x0000000000001e1a       0x44 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_udivmodsi4.o)
+                0x0000000000001e1a                __udivmodsi4
+
+.text.vListInsertEnd
+                0x0000000000001e5e       0x42
+ .text.vListInsertEnd
+                0x0000000000001e5e       0x42 build/default/production/list.o
+                0x0000000000001e5e                vListInsertEnd
+
+.text.avrlibc   0x0000000000001ea0       0x42
+ .text.avrlibc  0x0000000000001ea0       0x42 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcmp_M.o)
+                0x0000000000001ea0                strcmp
+
+.text.main      0x0000000000001ee2       0x40
+ .text.main     0x0000000000001ee2       0x40 build/default/production/main.o
+                0x0000000000001ee2                main
+
+.text.prvResetNextTaskUnblockTime
+                0x0000000000001f22       0x3e
+ .text.prvResetNextTaskUnblockTime
+                0x0000000000001f22       0x3e build/default/production/tasks.o
+
+.text.vQueueWaitForMessageRestricted
+                0x0000000000001f60       0x3a
+ .text.vQueueWaitForMessageRestricted
+                0x0000000000001f60       0x3a build/default/production/queue.o
+                0x0000000000001f60                vQueueWaitForMessageRestricted
+
+.text.vApplicationIdleHook
+                0x0000000000001f9a       0x38
+ .text.vApplicationIdleHook
+                0x0000000000001f9a       0x38 build/default/production/hooks.o
+                0x0000000000001f9a                vApplicationIdleHook
+
+.text.prvCopyDataFromQueue
+                0x0000000000001fd2       0x36
+ .text.prvCopyDataFromQueue
+                0x0000000000001fd2       0x36 build/default/production/queue.o
+
+.text.vTaskPlaceOnEventListRestricted
+                0x0000000000002008       0x32
+ .text.vTaskPlaceOnEventListRestricted
+                0x0000000000002008       0x32 build/default/production/tasks.o
+                0x0000000000002008                vTaskPlaceOnEventListRestricted
+
+.text.avrlibc   0x000000000000203a       0x32
+ .text.avrlibc  0x000000000000203a       0x32 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(memcpy_M.o)
+                0x000000000000203a                memcpy
+
+.text.USART_Init
+                0x000000000000206c       0x28
+ .text.USART_Init
+                0x000000000000206c       0x28 build/default/production/main.o
+                0x000000000000206c                USART_Init
+
+.text.pvPortMalloc
+                0x0000000000002094       0x26
+ .text.pvPortMalloc
+                0x0000000000002094       0x26 build/default/production/heap_3.o
+                0x0000000000002094                pvPortMalloc
+
+.text.sendText  0x00000000000020ba       0x24
+ .text.sendText
+                0x00000000000020ba       0x24 build/default/production/main.o
+                0x00000000000020ba                sendText
+
+.text.vTaskPlaceOnEventList
+                0x00000000000020de       0x24
+ .text.vTaskPlaceOnEventList
+                0x00000000000020de       0x24 build/default/production/tasks.o
+                0x00000000000020de                vTaskPlaceOnEventList
+
+.text.pxPortInitialiseStack
+                0x0000000000002102       0x22
+ .text.pxPortInitialiseStack
+                0x0000000000002102       0x22 build/default/production/port.o
+                0x0000000000002102                pxPortInitialiseStack
+
+.text.prvIsQueueEmpty
+                0x0000000000002124       0x22
+ .text.prvIsQueueEmpty
+                0x0000000000002124       0x22 build/default/production/queue.o
+
+.text.libgcc.mul
+                0x0000000000002146       0x20
+ .text.libgcc.mul
+                0x0000000000002146       0x20 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_mulsi3.o)
+                0x0000000000002146                __mulsi3
+
+.text.vPortFree
+                0x0000000000002166       0x1e
+ .text.vPortFree
+                0x0000000000002166       0x1e build/default/production/heap_3.o
+                0x0000000000002166                vPortFree
+
+.text.avrlibc   0x0000000000002184       0x1e
+ .text.avrlibc  0x0000000000002184       0x1e c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strcpy_M.o)
+                0x0000000000002184                strcpy
+
+.text.libgcc.mul
+                0x00000000000021a2       0x1e
+ .text.libgcc.mul
+                0x00000000000021a2       0x1e c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_umulhisi3.o)
+                0x00000000000021a2                __umulhisi3
+
+.text.vListInitialise
+                0x00000000000021c0       0x1c
+ .text.vListInitialise
+                0x00000000000021c0       0x1c build/default/production/list.o
+                0x00000000000021c0                vListInitialise
+
+.text.xTaskGetSchedulerState
+                0x00000000000021dc       0x1c
+ .text.xTaskGetSchedulerState
+                0x00000000000021dc       0x1c build/default/production/tasks.o
+                0x00000000000021dc                xTaskGetSchedulerState
+
+.text.vApplicationStackOverflowHook
+                0x00000000000021f8       0x1a
+ .text.vApplicationStackOverflowHook
+                0x00000000000021f8       0x1a build/default/production/hooks.o
+                0x00000000000021f8                vApplicationStackOverflowHook
+
+.text.libgcc    0x0000000000002212       0x1a
+ .text.libgcc   0x0000000000002212       0x1a c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+                0x0000000000002212                __movmemx_qi
+                0x0000000000002214                __movmemx_hi
+
+.text.vTaskInternalSetTimeOutState
+                0x000000000000222c       0x16
+ .text.vTaskInternalSetTimeOutState
+                0x000000000000222c       0x16 build/default/production/tasks.o
+                0x000000000000222c                vTaskInternalSetTimeOutState
+
+.text.libgcc.mul
+                0x0000000000002242       0x16
+ .text.libgcc.mul
+                0x0000000000002242       0x16 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_muluhisi3.o)
+                0x0000000000002242                __muluhisi3
+
+.text.vApplicationMallocFailedHook
+                0x0000000000002258       0x14
+ .text.vApplicationMallocFailedHook
+                0x0000000000002258       0x14 build/default/production/hooks.o
+                0x0000000000002258                vApplicationMallocFailedHook
+
+.text.xTaskGetTickCount
+                0x000000000000226c       0x14
+ .text.xTaskGetTickCount
+                0x000000000000226c       0x14 build/default/production/tasks.o
+                0x000000000000226c                xTaskGetTickCount
+
+.text.TIMER0_Init
+                0x0000000000002280       0x12
+ .text.TIMER0_Init
+                0x0000000000002280       0x12 build/default/production/main.o
+                0x0000000000002280                TIMER0_Init
+
+.text.avrlibc   0x0000000000002292       0x12
+ .text.avrlibc  0x0000000000002292       0x12 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(isspace.o)
+                0x0000000000002292                isspace
+
+.text.USART_Transmit
+                0x00000000000022a4       0x10
+ .text.USART_Transmit
+                0x00000000000022a4       0x10 build/default/production/main.o
+                0x00000000000022a4                USART_Transmit
+
+.text.USART_Receive
+                0x00000000000022b4       0x10
+ .text.USART_Receive
+                0x00000000000022b4       0x10 build/default/production/main.o
+                0x00000000000022b4                USART_Receive
+
+.text.libgcc    0x00000000000022c4       0x10
+ .text.libgcc   0x00000000000022c4       0x10 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_xload_2.o)
+                0x00000000000022c4                __xload_2
+
+.text.avrlibc   0x00000000000022d4        0xe
+ .text.avrlibc  0x00000000000022d4        0xe c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(atol_M.o)
+                0x00000000000022d4                atol
+
+.text.avrlibc   0x00000000000022e2        0xe
+ .text.avrlibc  0x00000000000022e2        0xe c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(memset.o)
+                0x00000000000022e2                memset
+
+.text.vTaskSuspendAll
+                0x00000000000022f0        0xc
+ .text.vTaskSuspendAll
+                0x00000000000022f0        0xc build/default/production/tasks.o
+                0x00000000000022f0                vTaskSuspendAll
+
+.text.libgcc    0x00000000000022fc        0xc
+ .text.libgcc   0x00000000000022fc        0xc c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_tablejump2.o)
+                0x00000000000022fc                __tablejump2__
+
+.text.setBackLight
+                0x0000000000002308        0xa
+ .text.setBackLight
+                0x0000000000002308        0xa build/default/production/main.o
+                0x0000000000002308                setBackLight
+
+.text.avrlibc   0x0000000000002312        0xa
+ .text.avrlibc  0x0000000000002312        0xa c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strtok.o)
+                0x0000000000002312                strtok
+
+.text.vListInitialiseItem
+                0x000000000000231c        0x8
+ .text.vListInitialiseItem
+                0x000000000000231c        0x8 build/default/production/list.o
+                0x000000000000231c                vListInitialiseItem
+
+.text.vTaskMissedYield
+                0x0000000000002324        0x8
+ .text.vTaskMissedYield
+                0x0000000000002324        0x8 build/default/production/tasks.o
+                0x0000000000002324                vTaskMissedYield
+
+.text.avrlibc   0x000000000000232c        0x8
+ .text.avrlibc  0x000000000000232c        0x8 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(atoi_M.o)
+                0x000000000000232c                atoi
+
+.text.__vector_6
+                0x0000000000002334        0x6
+ .text.__vector_6
+                0x0000000000002334        0x6 build/default/production/port.o
+                0x0000000000002334                __vector_6
+
+.text.avrlibc   0x000000000000233a        0x6
+ .text.avrlibc  0x000000000000233a        0x6 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(cty_isfalse.o)
+                0x000000000000233a                __ctype_isfalse
+                0x000000000000233e                __ctype_istrue
+
+.text           0x0000000000002340        0x4
+ .text          0x0000000000002340        0x4 D:/Program/MPLAB/packs/Microchip/ATmega_DFP/2.2.108/xc8/avr/lib/avr5/memx-const/crtatmega328p.o
+                0x0000000000002340                __vector_22
+                0x0000000000002340                __vector_1
+                0x0000000000002340                __vector_24
+                0x0000000000002340                __vector_12
+                0x0000000000002340                __bad_interrupt
+                0x0000000000002340                __vector_3
+                0x0000000000002340                __vector_23
+                0x0000000000002340                __vector_25
+                0x0000000000002340                __vector_11
+                0x0000000000002340                __vector_13
+                0x0000000000002340                __vector_17
+                0x0000000000002340                __vector_19
+                0x0000000000002340                __vector_7
+                0x0000000000002340                __vector_5
+                0x0000000000002340                __vector_4
+                0x0000000000002340                __vector_9
+                0x0000000000002340                __vector_2
+                0x0000000000002340                __vector_21
+                0x0000000000002340                __vector_15
+                0x0000000000002340                __vector_8
+                0x0000000000002340                __vector_14
+                0x0000000000002340                __vector_10
+                0x0000000000002340                __vector_16
+                0x0000000000002340                __vector_18
+                0x0000000000002340                __vector_20
+
+.data           0x0000000000800169        0x6 load address 0x0000000000002344
+ .data          0x0000000000800169        0x6 c:/program files/microchip/xc8/v2.31/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(malloc.o)
+                0x0000000000800169                __malloc_heap_end
+                0x000000000080016b                __malloc_heap_start
+                0x000000000080016d                __malloc_margin
